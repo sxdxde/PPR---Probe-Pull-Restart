@@ -1,0 +1,41 @@
+{
+  "digits_sgd": {
+    "mean": 96.4,
+    "std": 1.13
+  },
+  "digits_adam": {
+    "mean": 96.76,
+    "std": 0.51
+  },
+  "digits_adamw": {
+    "mean": 96.76,
+    "std": 0.46
+  },
+  "digits_ppr_plateau": {
+    "mean": 96.4,
+    "std": 1.13
+  },
+  "digits_ppr_plateau_probes": "0/0 (0%), 0 reinc",
+  "digits_ppr_velocity": {
+    "mean": 96.36,
+    "std": 0.56
+  },
+  "digits_ppr_velocity_probes": "20/20 (100%), 0 reinc",
+  "mnist_sgd": {
+    "mean": 97.74,
+    "std": 0.09
+  },
+  "mnist_adam": {
+    "mean": 97.92,
+    "std": 0.15
+  },
+  "mnist_adamw": {
+    "mean": 97.89,
+    "std": 0.11
+  },
+  "mnist_ppr_plateau": {
+    "mean": 97.75,
+    "std": 0.08
+  },
+  "mnist_ppr_plateau_probes": "0/1 (0%), 0 reinc"
+}

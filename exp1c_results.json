@@ -1,0 +1,290 @@
+{
+  "baseline": {
+    "2": {
+      "loss": {
+        "mean": 2.7117984771728514,
+        "std": 2.0641689425131213
+      },
+      "total_probes": 236,
+      "total_success": 12,
+      "success_rate_pct": 5.084745762711864,
+      "beats_momentum": "3/5"
+    },
+    "5": {
+      "loss": {
+        "mean": 22.333863067626954,
+        "std": 11.36847023805636
+      },
+      "total_probes": 269,
+      "total_success": 10,
+      "success_rate_pct": 3.717472118959108,
+      "beats_momentum": "4/5"
+    },
+    "20": {
+      "loss": {
+        "mean": 159.98831481933593,
+        "std": 65.60410509717255
+      },
+      "total_probes": 310,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    },
+    "100": {
+      "loss": {
+        "mean": 874.7622924804688,
+        "std": 126.71360662977938
+      },
+      "total_probes": 310,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    },
+    "1000": {
+      "loss": {
+        "mean": 8769.9095703125,
+        "std": 141.7701413035921
+      },
+      "total_probes": 310,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    },
+    "5000": {
+      "loss": {
+        "mean": 43585.6890625,
+        "std": 298.0253264347398
+      },
+      "total_probes": 310,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    },
+    "15000": {
+      "loss": {
+        "mean": 131382.2890625,
+        "std": 341.9255186480447
+      },
+      "total_probes": 310,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    }
+  },
+  "coord_align_s8": {
+    "2": {
+      "loss": {
+        "mean": 1.1939521789550782,
+        "std": 0.8324418649713718
+      },
+      "total_probes": 189,
+      "total_success": 21,
+      "success_rate_pct": 11.11111111111111,
+      "beats_momentum": "3/5"
+    },
+    "5": {
+      "loss": {
+        "mean": 5.732816314697265,
+        "std": 1.8534163594805795
+      },
+      "total_probes": 95,
+      "total_success": 51,
+      "success_rate_pct": 53.68421052631579,
+      "beats_momentum": "5/5"
+    },
+    "20": {
+      "loss": {
+        "mean": 111.07646026611329,
+        "std": 47.87249527696769
+      },
+      "total_probes": 82,
+      "total_success": 52,
+      "success_rate_pct": 63.41463414634146,
+      "beats_momentum": "5/5"
+    },
+    "100": {
+      "loss": {
+        "mean": 819.8014038085937,
+        "std": 100.30109367730128
+      },
+      "total_probes": 68,
+      "total_success": 63,
+      "success_rate_pct": 92.6470588235294,
+      "beats_momentum": "5/5"
+    },
+    "1000": {
+      "loss": {
+        "mean": 8724.2046875,
+        "std": 162.6286677645509
+      },
+      "total_probes": 109,
+      "total_success": 46,
+      "success_rate_pct": 42.20183486238532,
+      "beats_momentum": "5/5"
+    },
+    "5000": {
+      "loss": {
+        "mean": 43553.3203125,
+        "std": 305.2378915670583
+      },
+      "total_probes": 129,
+      "total_success": 56,
+      "success_rate_pct": 43.41085271317829,
+      "beats_momentum": "4/5"
+    },
+    "15000": {
+      "loss": {
+        "mean": 131340.503125,
+        "std": 333.1203665909596
+      },
+      "total_probes": 79,
+      "total_success": 72,
+      "success_rate_pct": 91.13924050632912,
+      "beats_momentum": "5/5"
+    }
+  },
+  "coord_align_s8_r1": {
+    "2": {
+      "loss": {
+        "mean": 0.16637306213378905,
+        "std": 0.3720214765559485
+      },
+      "total_probes": 132,
+      "total_success": 36,
+      "success_rate_pct": 27.272727272727273,
+      "beats_momentum": "5/5"
+    },
+    "5": {
+      "loss": {
+        "mean": 6.057915496826172,
+        "std": 2.104944364379238
+      },
+      "total_probes": 67,
+      "total_success": 54,
+      "success_rate_pct": 80.59701492537313,
+      "beats_momentum": "5/5"
+    },
+    "20": {
+      "loss": {
+        "mean": 111.84927673339844,
+        "std": 47.73216792217
+      },
+      "total_probes": 95,
+      "total_success": 48,
+      "success_rate_pct": 50.526315789473685,
+      "beats_momentum": "5/5"
+    },
+    "100": {
+      "loss": {
+        "mean": 821.7481079101562,
+        "std": 101.58128363592378
+      },
+      "total_probes": 74,
+      "total_success": 60,
+      "success_rate_pct": 81.08108108108108,
+      "beats_momentum": "5/5"
+    },
+    "1000": {
+      "loss": {
+        "mean": 8724.197265625,
+        "std": 162.6066869149
+      },
+      "total_probes": 116,
+      "total_success": 49,
+      "success_rate_pct": 42.241379310344826,
+      "beats_momentum": "5/5"
+    },
+    "5000": {
+      "loss": {
+        "mean": 43551.7265625,
+        "std": 304.97258087482095
+      },
+      "total_probes": 108,
+      "total_success": 62,
+      "success_rate_pct": 57.407407407407405,
+      "beats_momentum": "5/5"
+    },
+    "15000": {
+      "loss": {
+        "mean": 131341.1109375,
+        "std": 333.1335052561041
+      },
+      "total_probes": 87,
+      "total_success": 69,
+      "success_rate_pct": 79.3103448275862,
+      "beats_momentum": "5/5"
+    }
+  },
+  "coord_align_multi": {
+    "2": {
+      "loss": {
+        "mean": 0.9369033813476563,
+        "std": 0.7871555907367298
+      },
+      "total_probes": 73,
+      "total_success": 41,
+      "success_rate_pct": 56.16438356164384,
+      "beats_momentum": "5/5"
+    },
+    "5": {
+      "loss": {
+        "mean": 5.501206970214843,
+        "std": 2.172183874896384
+      },
+      "total_probes": 64,
+      "total_success": 57,
+      "success_rate_pct": 89.0625,
+      "beats_momentum": "5/5"
+    },
+    "20": {
+      "loss": {
+        "mean": 108.8820785522461,
+        "std": 47.84119337942811
+      },
+      "total_probes": 61,
+      "total_success": 60,
+      "success_rate_pct": 98.36065573770492,
+      "beats_momentum": "5/5"
+    },
+    "100": {
+      "loss": {
+        "mean": 819.0438354492187,
+        "std": 101.53154281516822
+      },
+      "total_probes": 64,
+      "total_success": 64,
+      "success_rate_pct": 100.0,
+      "beats_momentum": "5/5"
+    },
+    "1000": {
+      "loss": {
+        "mean": 8724.2046875,
+        "std": 162.6286677645509
+      },
+      "total_probes": 67,
+      "total_success": 60,
+      "success_rate_pct": 89.55223880597015,
+      "beats_momentum": "5/5"
+    },
+    "5000": {
+      "loss": {
+        "mean": 43551.76953125,
+        "std": 304.263213222585
+      },
+      "total_probes": 77,
+      "total_success": 67,
+      "success_rate_pct": 87.01298701298701,
+      "beats_momentum": "5/5"
+    },
+    "15000": {
+      "loss": {
+        "mean": 131339.234375,
+        "std": 332.5415528913854
+      },
+      "total_probes": 73,
+      "total_success": 72,
+      "success_rate_pct": 98.63013698630137,
+      "beats_momentum": "5/5"
+    }
+  }
+}

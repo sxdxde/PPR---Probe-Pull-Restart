@@ -1,0 +1,16 @@
+{
+  "plain_momentum_accuracy": {
+    "mean": 96.67,
+    "std": 1.05
+  },
+  "reinc_only_accuracy": {
+    "mean": 96.31,
+    "std": 1.12
+  },
+  "reinc_only_reinc": 12.0,
+  "ppr_full_accuracy": {
+    "mean": 96.76,
+    "std": 1.06
+  },
+  "ppr_full_reinc": 1.2
+}

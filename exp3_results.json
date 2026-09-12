@@ -1,0 +1,58 @@
+{
+  "digits_sgd_normal": {
+    "mean": 96.4,
+    "std": 1.13
+  },
+  "digits_adam_normal": {
+    "mean": 96.76,
+    "std": 0.51
+  },
+  "digits_adamw_normal": {
+    "mean": 96.76,
+    "std": 0.46
+  },
+  "digits_ppr_normal": {
+    "mean": 96.36,
+    "std": 0.56
+  },
+  "digits_ppr_normal_probes": "20/20 (100% success)",
+  "digits_sgd_stress": {
+    "mean": 13.78,
+    "std": 10.18
+  },
+  "digits_adam_stress": {
+    "mean": 11.24,
+    "std": 5.59
+  },
+  "digits_adamw_stress": {
+    "mean": 12.13,
+    "std": 7.56
+  },
+  "digits_ppr_stress": {
+    "mean": 17.47,
+    "std": 11.5
+  },
+  "digits_ppr_stress_probes": "1/22 (5% success)",
+  "mnist_sgd": {
+    "mean": 97.89,
+    "std": 0.11
+  },
+  "mnist_adam": {
+    "mean": 97.94,
+    "std": 0.07
+  },
+  "mnist_adamw": {
+    "mean": 98.02,
+    "std": 0.03
+  },
+  "mnist_ppr_eps001": {
+    "mean": 10.76,
+    "std": 1.29
+  },
+  "mnist_ppr_eps001_probes": "615/615 (100% success)",
+  "mnist_ppr_eps005": {
+    "mean": 10.76,
+    "std": 1.29
+  },
+  "mnist_ppr_eps005_probes": "615/615 (100% success)"
+}

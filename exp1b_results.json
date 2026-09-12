@@ -1,0 +1,318 @@
+{
+  "baseline": {
+    "2": {
+      "loss": {
+        "mean": 2.7117984771728514,
+        "std": 2.0641689425131213
+      },
+      "probe_dirs": 8,
+      "total_probes": 236,
+      "total_success": 12,
+      "success_rate_pct": 5.084745762711864,
+      "beats_momentum": "3/5"
+    },
+    "5": {
+      "loss": {
+        "mean": 22.333863067626954,
+        "std": 11.36847023805636
+      },
+      "probe_dirs": 8,
+      "total_probes": 269,
+      "total_success": 10,
+      "success_rate_pct": 3.717472118959108,
+      "beats_momentum": "4/5"
+    },
+    "20": {
+      "loss": {
+        "mean": 159.98831481933593,
+        "std": 65.60410509717255
+      },
+      "probe_dirs": 8,
+      "total_probes": 310,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    },
+    "100": {
+      "loss": {
+        "mean": 874.7622924804688,
+        "std": 126.71360662977938
+      },
+      "probe_dirs": 8,
+      "total_probes": 310,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    },
+    "1000": {
+      "loss": {
+        "mean": 8769.9095703125,
+        "std": 141.7701413035921
+      },
+      "probe_dirs": 8,
+      "total_probes": 310,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    },
+    "5000": {
+      "loss": {
+        "mean": 43585.6890625,
+        "std": 298.0253264347398
+      },
+      "probe_dirs": 8,
+      "total_probes": 310,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    },
+    "15000": {
+      "loss": {
+        "mean": 131382.2890625,
+        "std": 341.9255186480447
+      },
+      "probe_dirs": 8,
+      "total_probes": 310,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    }
+  },
+  "subset": {
+    "2": {
+      "loss": {
+        "mean": 2.7117984771728514,
+        "std": 2.0641689425131213
+      },
+      "probe_dirs": 8,
+      "total_probes": 236,
+      "total_success": 12,
+      "success_rate_pct": 5.084745762711864,
+      "beats_momentum": "3/5"
+    },
+    "5": {
+      "loss": {
+        "mean": 22.333863067626954,
+        "std": 11.36847023805636
+      },
+      "probe_dirs": 8,
+      "total_probes": 269,
+      "total_success": 10,
+      "success_rate_pct": 3.717472118959108,
+      "beats_momentum": "4/5"
+    },
+    "20": {
+      "loss": {
+        "mean": 155.80953674316407,
+        "std": 60.33861985525443
+      },
+      "probe_dirs": 8,
+      "total_probes": 303,
+      "total_success": 2,
+      "success_rate_pct": 0.6600660066006601,
+      "beats_momentum": "1/5"
+    },
+    "100": {
+      "loss": {
+        "mean": 868.1956176757812,
+        "std": 116.88372250427014
+      },
+      "probe_dirs": 8,
+      "total_probes": 307,
+      "total_success": 1,
+      "success_rate_pct": 0.3257328990228013,
+      "beats_momentum": "1/5"
+    },
+    "1000": {
+      "loss": {
+        "mean": 8769.9095703125,
+        "std": 141.7701413035921
+      },
+      "probe_dirs": 8,
+      "total_probes": 307,
+      "total_success": 2,
+      "success_rate_pct": 0.6514657980456026,
+      "beats_momentum": "0/5"
+    },
+    "5000": {
+      "loss": {
+        "mean": 43585.6890625,
+        "std": 298.0253264347398
+      },
+      "probe_dirs": 8,
+      "total_probes": 310,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    },
+    "15000": {
+      "loss": {
+        "mean": 131382.2890625,
+        "std": 341.9255186480447
+      },
+      "probe_dirs": 8,
+      "total_probes": 310,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    }
+  },
+  "scaled_dirs": {
+    "2": {
+      "loss": {
+        "mean": 3.5704605102539064,
+        "std": 1.4959459694715405
+      },
+      "probe_dirs": 5,
+      "total_probes": 263,
+      "total_success": 8,
+      "success_rate_pct": 3.041825095057034,
+      "beats_momentum": "3/5"
+    },
+    "5": {
+      "loss": {
+        "mean": 22.333863067626954,
+        "std": 11.36847023805636
+      },
+      "probe_dirs": 8,
+      "total_probes": 269,
+      "total_success": 10,
+      "success_rate_pct": 3.717472118959108,
+      "beats_momentum": "4/5"
+    },
+    "20": {
+      "loss": {
+        "mean": 159.98831787109376,
+        "std": 65.60410343099572
+      },
+      "probe_dirs": 17,
+      "total_probes": 311,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    },
+    "100": {
+      "loss": {
+        "mean": 874.7622680664062,
+        "std": 126.71356833805153
+      },
+      "probe_dirs": 40,
+      "total_probes": 310,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    },
+    "1000": {
+      "loss": {
+        "mean": 8769.9095703125,
+        "std": 141.7701413035921
+      },
+      "probe_dirs": 64,
+      "total_probes": 310,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    },
+    "5000": {
+      "loss": {
+        "mean": 43585.6890625,
+        "std": 298.0253264347398
+      },
+      "probe_dirs": 64,
+      "total_probes": 310,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    },
+    "15000": {
+      "loss": {
+        "mean": 131382.2890625,
+        "std": 341.9255186480447
+      },
+      "probe_dirs": 64,
+      "total_probes": 310,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    }
+  },
+  "grad_pca": {
+    "2": {
+      "loss": {
+        "mean": 2.630232048034668,
+        "std": 2.0074612363997475
+      },
+      "probe_dirs": 20,
+      "total_probes": 200,
+      "total_success": 19,
+      "success_rate_pct": 9.5,
+      "beats_momentum": "3/5"
+    },
+    "5": {
+      "loss": {
+        "mean": 22.485987854003906,
+        "std": 11.400791237738185
+      },
+      "probe_dirs": 20,
+      "total_probes": 274,
+      "total_success": 9,
+      "success_rate_pct": 3.2846715328467155,
+      "beats_momentum": "4/5"
+    },
+    "20": {
+      "loss": {
+        "mean": 159.98831176757812,
+        "std": 65.60410092014291
+      },
+      "probe_dirs": 20,
+      "total_probes": 311,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    },
+    "100": {
+      "loss": {
+        "mean": 874.7622924804688,
+        "std": 126.71360662977938
+      },
+      "probe_dirs": 20,
+      "total_probes": 310,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    },
+    "1000": {
+      "loss": {
+        "mean": 8769.9095703125,
+        "std": 141.7701413035921
+      },
+      "probe_dirs": 20,
+      "total_probes": 310,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    },
+    "5000": {
+      "loss": {
+        "mean": 43585.6890625,
+        "std": 298.0253264347398
+      },
+      "probe_dirs": 20,
+      "total_probes": 311,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    },
+    "15000": {
+      "loss": {
+        "mean": 131382.2890625,
+        "std": 341.9255186480447
+      },
+      "probe_dirs": 20,
+      "total_probes": 311,
+      "total_success": 0,
+      "success_rate_pct": 0.0,
+      "beats_momentum": "0/5"
+    }
+  }
+}

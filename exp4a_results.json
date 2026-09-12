@@ -1,0 +1,19 @@
+{
+  "mnist_sgd": {
+    "mean": 97.74,
+    "std": 0.09
+  },
+  "mnist_adam": {
+    "mean": 97.92,
+    "std": 0.15
+  },
+  "mnist_adamw": {
+    "mean": 97.89,
+    "std": 0.11
+  },
+  "mnist_ppr_tuned": {
+    "mean": 13.6,
+    "std": 2.73
+  },
+  "mnist_ppr_probe_activity": "48/48 (100% success), 9 reincarnations"
+}
